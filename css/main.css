@@ -53,8 +53,7 @@
 }
 
 
-element.style {
-}
+
 *, ::after, ::before {
     box-sizing: border-box;
 }
@@ -81,6 +80,7 @@ element.style {
     margin-top: 10px;
     border: 2px solid #1bbca3;
     color: #fff;
+    background-color: darkblue;
 }
 
 .container {
@@ -105,6 +105,16 @@ element.style {
     background-color: brown;
 }
 
+img {
+    vertical-align: middle;
+    border-style: dotted;
+}
+
+section#services{
+    background-color: brown;
+}
+
+
 .counts .count-box {
     box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
     padding: 30px;
@@ -126,7 +136,7 @@ h1, h2, h3, h4, h5, h6 {
     padding: 70px;
     position: relative;
     overflow: hidden;
-    background: red;
+    background: #dc3545;
     box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
     transition: all 0.3s ease-in-out;
     border-radius: 8px;
