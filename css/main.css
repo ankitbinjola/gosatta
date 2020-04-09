@@ -1,0 +1,186 @@
+#header {
+    height: 70px;
+    transition: all 0.5s;
+    z-index: 997;
+    transition: all 0.5s;
+    padding: 10px 0;
+    background: black;
+    box-shadow: 0px 2px 15px rgba(0, 0, 0, 0.1);
+}
+
+.text-center {
+    text-align: center!important;
+}
+
+.cta {
+    background: linear-gradient(rgba(66, 84, 81, 0.5), rgba(43, 56, 54, 0.5)), url(../img/cta-bg.jpg) fixed center center;
+    background-size: cover;
+    padding: 60px 0;
+}
+
+
+.counts .count-box {
+    box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%;
+    background: yellow;
+}
+
+.services .icon-box {
+    padding: 70px;
+    position: relative;
+    overflow: hidden;
+    background: red;
+    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+    z-index: 1;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+#footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+}
+
+
+element.style {
+}
+*, ::after, ::before {
+    box-sizing: border-box;
+}
+#header .logo h1 a, #header .logo h1 a:hover {
+    color: gold;
+    text-decoration: none;
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+}
+
+.section-bg {
+    background-color: brown;
+}
+
+.cta .cta-btn {
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    letter-spacing: 1px;
+    display: inline-block;
+    padding: 8px 28px;
+    border-radius: 25px;
+    transition: 0.5s;
+    margin-top: 10px;
+    border: 2px solid #1bbca3;
+    color: #fff;
+}
+
+.container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.section-title h2 {
+    font-size: 32px;
+    font-weight: 700;
+    text-transform: uppercase;
+    margin-bottom: 20px;
+    padding-bottom: 0;
+    color: black;
+    text-align: center;
+}
+
+.section-bg {
+    background-color: brown;
+}
+
+.counts .count-box {
+    box-shadow: -10px -5px 40px 0 rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    width: 100%;
+    background: yellow;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Roboto", sans-serif;
+}
+
+.h1, .h2, .h3, .h4, .h5, .h6, h1, h2, h3, h4, h5, h6 {
+    margin-bottom: .5rem;
+    font-weight: 500;
+    line-height: 1.2;
+}
+
+.services .icon-box {
+    padding: 70px;
+    position: relative;
+    overflow: hidden;
+    background: red;
+    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
+    transition: all 0.3s ease-in-out;
+    border-radius: 8px;
+    z-index: 1;
+}
+
+.info-box .content h3 {
+    font-weight: 400;
+    font-size: 34px;
+}
+.info-box .content p {
+    font-size: 15px;
+    color: #6b8a86;
+}
+.info-box .accordion-list li {
+    padding: 20px;
+    background: #f2f5f4;
+    border-radius: 5px;
+}
+.mb-1, .my-1 {
+    margin-bottom: .25rem!important;
+}
+
+.container-fluid, .container-lg, .container-md, .container-sm, .container-xl {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.table-bordered {
+    border: 1px solid #dee2e6;
+}
+.table {
+    width: 100%;
+    margin-bottom: 1rem;
+    color: #212529;
+}
+#footer {
+    background: black;
+    padding: 0 0 30px 0;
+    color: #fff;
+    font-size: 14px;
+    display: block;
+}
+#footer .copyright {
+    text-align: center;
+    padding-top: 30px;
+}
+
+#footer .credits {
+    padding-top: 10px;
+    text-align: center;
+    font-size: 13px;
+    color: #fff;
+}
