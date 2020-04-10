@@ -135,16 +135,6 @@ h1, h2, h3, h4, h5, h6 {
     line-height: 1.2;
 }
 
-.services .icon-box {
-    padding: 70px;
-    position: relative;
-    overflow: hidden;
-    background: #dc3545;
-    box-shadow: 0 0 29px 0 rgba(68, 88, 144, 0.12);
-    transition: all 0.3s ease-in-out;
-    border-radius: 8px;
-    z-index: 1;
-}
 
 .info-box .content h3 {
     font-weight: 400;
