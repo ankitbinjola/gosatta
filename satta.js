@@ -24,6 +24,6 @@ switch (y) {
 
 
 function maintainance(){
- alert("Gosatta.com is under maintenance srvices will be resumed soon") 
+ alert("Gosatta.com is under maintenance services will be resumed soon") 
 
 }
