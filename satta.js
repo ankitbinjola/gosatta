@@ -20,3 +20,10 @@ switch (y) {
 
 }
 },7200000);
+
+
+
+function maintainance(){
+ alert("Gosatta.com is under maintenance srvices will be resumed soon") 
+
+}
