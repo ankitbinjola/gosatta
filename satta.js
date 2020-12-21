@@ -21,9 +21,3 @@ switch (y) {
 }
 },7200000);
 
-
-
-function maintainance(){
- alert("Gosatta.com is under maintenance services will be resumed soon") 
-
-}
